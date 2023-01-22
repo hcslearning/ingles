@@ -102,8 +102,11 @@ Are you playing?
 
 ## Common Questions
 
+- How do I pronounce this word?
+- what is the meaning of this word? / what does this word mean? / what does it mean? 
 - How long have you been using the application?
 - How are you doing? / How are you? / How is it going? / How have you been? / What's new with you? / How are things? / How's everything? / How are you feeling? / How have you been holding up?
+- What is the gentilicio of the Philippines? 
 
 
 ------------------------------------------------------------------------
@@ -139,5 +142,18 @@ Are you playing?
 - Look after | Cuidar
 - Look for   | Buscar
 - Blow up    | Explotar
-- 
+
+------------------------------------------------------------------------
+
+## Can and Could 
+
+"Can" and "could" are modal verbs that are used to express ability or possibility.
+
+"Can" is used to express the ability to do something in the present or future. For example, "I can swim" means that you are able to swim or "Can you help me with this?" means you are asking someone if they are able to help you with a certain task.
+
+"Could" is used to express the ability to do something in the past or a hypothetical possibility. For example, "I could swim when I was a child" means that you were able to swim when you were a child. "Could you help me with this?" means you are asking someone politely if they would be able to help you with a certain task.
+
+Also, "could" is used to express a polite request or suggestion. For example, "Could I have a glass of water, please?" or "Could we meet at 3 PM instead?"
+
+In summary, "can" is used to express the ability to do something in the present or future, while "could" is used to express the ability to do something in the past or a hypothetical possibility, and also to make a polite request or suggestion.
 
