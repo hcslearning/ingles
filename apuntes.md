@@ -119,7 +119,7 @@ Are you playing?
 
 - It has been a pleasure to meet you
 
-- your connection is having problems
+- your connection is having problems / you seem to have connection problems 
 
 ------------------------------------------------------------------------
 
@@ -145,6 +145,20 @@ Are you playing?
 
 ------------------------------------------------------------------------
 
+## Have beend and Had been 
+
+In summary, "have been" is used to talk about an action or state that started in the past and continues up to the present, while "had been" is used to talk about an action or state that started in the past and continued up to a point in the past.
+
+### Have been 
+
+Example: "I have been working on this project for two months." This means that you started working on the project two months ago, and you are still working on it now.
+
+### Had been 
+
+Example: "He had been working on the car for two hours before it started." This means that he started working on the car two hours ago, and he continued working on it until the point when the car started.
+
+------------------------------------------------------------------------
+
 ## Can and Could 
 
 "Can" and "could" are modal verbs that are used to express ability or possibility.
@@ -156,4 +170,39 @@ Are you playing?
 Also, "could" is used to express a polite request or suggestion. For example, "Could I have a glass of water, please?" or "Could we meet at 3 PM instead?"
 
 In summary, "can" is used to express the ability to do something in the present or future, while "could" is used to express the ability to do something in the past or a hypothetical possibility, and also to make a polite request or suggestion.
+
+
+------------------------------------------------------------------------
+
+## Can and Could 
+
+
+Adverbs are words that modify verbs, adjectives, or other adverbs. They can indicate manner, time, frequency, degree, or other information about the action or description in a sentence. For example:
+
+"She sings beautifully." (manner)
+"He arrived early." (time)
+"They always eat breakfast together." (frequency)
+"The cake was incredibly delicious." (degree)
+
+
+------------------------------------------------------------------------
+
+## "To" and "For" 
+
+In English, "to" is used when indicating the direction or recipient of an action, while "for" is used when indicating the purpose or benefit of an action. For example:
+
+- "I am going to the store" (indicating direction)
+- "I am buying milk for my cereal" (indicating purpose)
+- "I am going to the gym" (indicating direction)
+- "I am going to work" (indicating direction)
+- "I am sending this letter to my friend" (indicating recipient)
+- "I am saving money for a trip" (indicating purpose)
+- "I am studying for the exam" (indicating purpose)
+- "I am doing this project for my class" (indicating purpose)
+- "I am waiting for you" (indicating purpose)
+- "I am buying this gift for my mom" (indicating purpose)
+
+
+
+
 
