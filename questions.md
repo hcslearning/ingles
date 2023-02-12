@@ -1,105 +1,125 @@
 # Questions for Practice 
 
+1. What's your favorite song? Why?
 
-1. What's your occupation? What do you like and dislike? 
+2. Which country or countries would you like to visit and why?
 
-2. What's your favorite color? Why? 
+3. What do you like and dislike about your country?
 
-3. What's your favorite movie or TV Serie? why? 
+4. What's your favorite sport? do you practice it?
 
-4. What's your favorite song? Why? 
+5. What is the definition of friendship for you? and what is the most important qualitity in a friend?
 
-5. Do you have any siblings? tell me about them 
+6. What's your favorite natural setting and why?
 
-6. What's your favorite food? What ingredients does it contain? 
+7. What's your favorite food? What ingredients does it contain?
 
-7. What's your favorite animal? Why?
+8. What is your definition of freedom?
 
-8. What's your favorite sport? do you practice it?
+9. What's your occupation? What do you like and dislike?
 
-9. What are your hobbies? 
+10. Do you have any pets? Tell me about them.
 
-10. Do you have any pets? Tell me about them. 
+11. What are your hobbies?
 
-11. What's your favorite subject in school? Why?
+12. Do you like cooking? if so, what's your favorite dish to cook?
 
-12. What did you want to be when you grew up? 
+13. What's the most challenging experience that you have living?
 
-13. What would you do if you won the lottery? 
+14. What do you like to do when you have time with your family?
 
-14. Which country or countries would you like to visit and why? 
+15. What's your favorite outdoor activity?
 
-15. Do you like cooking? if so, what's your favorite dish to cook? 
+16. Do you like spending time with children? What do you like to play with them?
 
-16. What do you like and dislike about your country?
+17. How do you like to spend your time on weekends?
 
-17. What parts of your country do you recommend a tourist to visit and why? 
+18. What's the meaning of life?
 
-18. How do you like to spend your time on weekends? 
+19. Do you enjoy volunteering? what kind of volunteering do you do or 
+would you do?
 
-19. What's your favorite holiday and why? 
+20. What is the most important lesson you have learned in life?
 
-20. Do you like going shopping? What things do you like to buy or look at?
+21. What is the role of music in human life?
 
-21. If you had all the time in the world, what would you like to learn?
+22. What is the most important invention in human history for you? why?
 
-22. If you were a billionaire, what are the first three things you would do and why? 
+23. Do you like spending time with elderly people? What do you like to do with them?
 
-23. What's your favorite indoor activity?
+24. What is the most important quality for a leader to possess?
 
-24. What's your favorite outdoor activity?
+25. What are the most important things for you in a relationship?
 
-25. What do you like to do in your alone time? 
+26. What's your favorite indoor activity?
 
-26. What do you like to do when you have time with your family?
+27. What's the definition of success?
 
-27. What do you like to do when you have time with friends? 
+28. What do you like to do when you have time with friends?
 
-28. Do you enjoy volunteering? what kind of volunteering do you do or would you do? 
+29. What parts of your country do you recommend a tourist to visit and why?
 
-29. Do you like spending time with children? What do you like to play with them? 
+30. If you were a billionaire, what are the first three things you would do and why?
 
-30. Do you like spending time with elderly people? What do you like to do with them? 
+31. What's your favorite movie or TV Serie? why?
 
-31. What's your favorite natural setting and why?
+32. What's your favorite holiday and why?
 
-32. What's the meaning of life?
+33. What would you do if you won the lottery?
 
-33. What's the definition of success? 
+34. What is the most important lesson you have learned from failure?
 
-34. What's the difference between love and infatuation?
+35. What is the meaning of death for you?
 
-35. What's the most challenging experience that you have living? 
+36. What is the significance of religion in human life?
 
-36. What is the meaning of death for you?
+37. What is the definition of success in your career?
 
-37. What are the most important things for you in a relationship? 
+38. What's the difference between love and infatuation?
 
-38. What is the meaning of happiness for you? 
+39. What did you want to be when you grew up?
 
-39. What is the significance of religion in human life? 
+40. What is the meaning of happiness for you?
 
-40. What is the most important lesson you have learned in life?
+41. What is your definition of justice?
 
-41. What is the most important quality for a leader to possess?
+42. What is the first thing you see in a man or woman?
 
-42. What is your definition of freedom?
+43. What's your favorite color? Why?
 
-43. What is your definition of justice? 
+44. Do you have any siblings? tell me about them
 
-44. What is the most important invention in human history for you? why? 
+45. What is the most important quality in a romantic partner?
 
-45. What is the role of music in human life? 
+46. What's your favorite animal? Why?
 
-46. What is the definition of friendship for you? and what is the most important qualitity in a friend? 
+47. If you had all the time in the world, what would you like to learn?
 
-47. What is the most important lesson you have learned from failure? 
+48. What's your favorite subject in school? Why?
 
-48. What is the first thing you see in a man or woman?
+49. What do you like to do in your alone time?
 
-49. What is the definition of success in your career?
+50. Do you like going shopping? What things do you like to buy or look at?
 
-50. What is the most important quality in a romantic partner? 
+51. What is your greatest fear? 
+
+52. How would you describe your philosophy of life? 
+
+53. how do you handle stress and anxiety? 
+
+54. how would you describe your relationship with money? 
+
+55. What role does religion or spirituality play in your life? 
+
+56. What are your most important values and how do they influence your daily decisions?
+
+57. What would you like to learn or improve in yourself? 
+
+58. How do you perceive yourself and how would you like to be perceived by others? 
+
+59. Have you experienced any changes in your opinions or beliefs over time and what has that process been like for you? 
+
+60. How would you describe your relationship with love and romantic relationships? 
 
 
 
