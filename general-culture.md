@@ -105,9 +105,35 @@ The author of "Romeo and Juliet" is William Shakespeare.
 35. What is the currency used in England?
 The currency used in England is the British Pound Sterling.
 
+36. Who directed the movie "Jurassic Park"?
+Answer: Steven Spielberg
 
+37. Who played the character of Harry Potter in the movie series of the same name?
+Answer: Daniel Radcliffe
 
+38. Who directed the movie "The Godfather"?
+Answer: Francis Ford Coppola
 
+39. In the movie "The Lion King", what kind of animal is Timon?
+Answer: Meerkat or suricate 
+
+40. Who played the character of Captain Jack Sparrow in the "Pirates of the Caribbean" movie series?
+Answer: Johnny Depp
+
+41. Who played the character of Tony Stark/Iron Man in the Marvel Cinematic Universe?
+Answer: Robert Downey Jr.
+
+42. Who played the character of Neo in "The Matrix" movie series?
+Answer: Keanu Reeves
+
+43. In the movie "The Silence of the Lambs", what is the occupation of the main character, Clarice Starling?
+Answer: FBI agent
+
+44. Who played the character of Edward Scissorhands in the movie of the same name?
+Answer: Johnny Depp
+
+45. Which 1972 movie features the line "I'm gonna make him an offer he can't refuse"?
+Answer: "The Godfather"
 
 
 
